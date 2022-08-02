@@ -1,6 +1,6 @@
 # Summer2021
 
-![poster](/Tema_grupa5/images/poster.jpg)
+![poster](./../images/poster.jpg)
 
 Bebe takes care of Iri
 

@@ -2,7 +2,7 @@
 
 A idk
 
-![villain picture](/Tema_grupa5/images/Bebe.jpg)
+![villain picture](./../images/Bebe.jpg)
 
 ## Powers and weaknesses
 

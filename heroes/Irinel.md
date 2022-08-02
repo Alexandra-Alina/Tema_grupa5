@@ -2,7 +2,7 @@
 
 Basically a cat
 
-![hero picture](/Tema_grupa5/images/Irinel.jpg)
+![hero picture](./../images/Irinel.jpg)
 
 ## Powers and weaknesses
 
