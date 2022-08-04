@@ -6,5 +6,5 @@ Capybara is fighting Doge
 
 ## Characters
 
-- [Capybara](./../heroes/capybara.md.md)
+- [Capybara](./../heroes/capybara.md)
 - [Doge](./../villains/doge.md)
