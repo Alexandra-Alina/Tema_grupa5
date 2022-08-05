@@ -1,8 +1,9 @@
 # Capybara vs. Doge in the multiverse
 
-![poster](./../images/capybaraVsDoge.png)
+![poster](./../images/capibaraVSdoge.png)
 
-Capybara is fighting Doge 
+Capy' tries to stop Doge from conquering the multiverse.
+Doge plans are to rule and spread his cryptocurrency in the world and throughout the multiverse.
 
 ## Characters
 
