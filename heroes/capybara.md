@@ -7,6 +7,6 @@ Capybara - the funniest pig
 ## Powers and weaknesses
 
 - ➕ He teleports
-  ➕ Strong
+- ➕ Strong
 - ➕ Climbs the walls
 - ➖ Memory Issues

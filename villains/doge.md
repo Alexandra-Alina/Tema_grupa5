@@ -8,4 +8,4 @@ The dog that conquered the cryptocurrency world. :-)
 
 - ➕ Smart
 - ➖ Lazy
-  ➖ Naive
+- ➖ Naive
