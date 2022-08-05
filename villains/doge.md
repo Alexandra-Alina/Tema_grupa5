@@ -1,6 +1,6 @@
 # Doge
 
-The dog that conquered the cryptocurrency world. :-)
+The dog which conquered the cryptocurrency world. :-)
 
 ![doge picture](./../images/doge.jpg)
 
