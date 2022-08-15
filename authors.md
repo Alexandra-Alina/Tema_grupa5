@@ -5,3 +5,4 @@ Contributed to this project:
 * Cojocaru Vladimir
 * Csenger Roxana-Ramona
 * Deneș Florin-Laurențiu
+* Dumitrica Alexandra-Alina
